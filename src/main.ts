@@ -13,7 +13,7 @@ function noSearchDefaultPageRender() {
           <input 
             type="text" 
             class="url-input"
-            value="https://unduck.funnyna.me?q=%s&default-bang=g"
+            value="https://unduck.funnyna.me?default-bang=g&q=%s"
             readonly 
           />
           <button class="copy-button">
