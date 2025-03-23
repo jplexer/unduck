@@ -20,6 +20,15 @@ export const bangs = [
     u: "https://search.funnyna.me/?q={{{s}}}",
   },
   {
+    c: "AI",
+    d: "www.perplexity.ai",
+    r: 0,
+    s: "perplexity.ai",
+    sc: "AI",
+    t: "pplx",
+    u: "https://www.perplexity.ai/search/new?q={{{s}}}",
+  },
+  {
     c: "Tech",
     d: "www.01net.com",
     r: 4,
