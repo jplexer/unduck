@@ -11,6 +11,15 @@ export const bangs = [
     u: "https://www.t3.chat/new?q={{{s}}}",
   },
   {
+    c: "Online Services",
+    d: "search.funnyna.me",
+    r: 20,
+    s: "funnyna.me searxng",
+    sc: "Search",
+    t: "funnyname",
+    u: "https://search.funnyna.me/?q={{{s}}}",
+  },
+  {
     c: "Tech",
     d: "www.01net.com",
     r: 4,
